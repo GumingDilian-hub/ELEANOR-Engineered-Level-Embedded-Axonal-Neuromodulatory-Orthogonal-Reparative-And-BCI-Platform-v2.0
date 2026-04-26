@@ -1,0 +1,11 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: If you use this project, please cite it as below.
+authors:
+  - family-names: Chenzhuo
+    given-names: ''
+title: ELEANOR Platform
+version: 2.0.0
+date-released: 2026-04-26
+url: https://github.com/GumingDilian-hub/Engineered-Localized-Embedded-Axonal-Neuromodulatory-Orthogonal-Reparative-Dual-Module-Pla
+license: CC-BY-4.0
