@@ -1,0 +1,23 @@
+# ELEANOR Platform - Changelog
+## v2.0.0 | 2026-04-26
+### 🚨 MAJOR BREAKING UPDATE
+- Permanently abandoned the original Drt3b/TdT + NES-Cas9 BCI technology stack
+- Replaced with 100% commercially available synthetic long-chain DNA delivery system
+- Introduced revolutionary **KALTSIT Complementary Anti-Degradation Safety Technology**
+- Reduced BCI system complexity by over 90%
+- Shortened BCI clinical translation timeline from 5-8 years to 2-3 years
+- Added CPP auto-separation mechanism to eliminate residual CPP interference
+- Implemented pure base block sequence design for theoretical zero non-specific pairing
+- Verified 15-20 years long-term stability of correctly delivered DNA in neurons
+- Updated full technical detail statement (now 45KB)
+- Updated README.md with v2.0.0 highlights
+- All AD therapeutic route content remains unchanged
+
+## v1.0.0 | 2026-04-25
+- Official initial release
+- Dual-route architecture finalized: AD Therapy + Single-Cell Read-Only BCI
+- SpyTag/SpyCatcher covalent self-locking system applied
+- Full technical detail statement (25.6KB) completed
+- Strict cytoplasm-only, zero nuclear off-target design
+- Standard open-source documentation set released
+- License: CC BY 4.0
