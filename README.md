@@ -1,94 +1,125 @@
 # ELEANOR-Engineered-Level-Embedded-Axonal-Neuromodulatory-Orthogonal-Reparative-And-BCI-Platform-v2.0
 ELEANOR-Engineered-Level-Embedded-Axonal-Neuromodulatory-Orthogonal-Reparative-And-BCI-Platform-v2.0 | Original Author: Chenzhuo | First Published: 2026-04-25 | Update：2026-04-26
+
 <div align="center">
 <h1 style="color:#7B68EE;font-weight:bold; font-size: 42px; letter-spacing: 2px;">ELEANOR Platform</h1>
 <h3 style="color:#4682B4; font-size: 22px; font-weight: 500;">Engineered Localized Embedded Axonal Neuromodulatory Orthogonal Reparative Dual-Module Platform</h3>
 <br>
- [![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Cytoplasm-Only](https://img.shields.io/badge/Operation-Cytoplasm%20Only-green.svg)](/)
-[![Read-Only BCI](https://img.shields.io/badge/BCI-Read%20Only-orange.svg)](/)
-[![Safe](https://img.shields.io/badge/Safety-Zero%20Genomic%20Editing-red.svg)](/)
+
+![CC BY 4.0](https://img.shields.io/badge/CC%20BY%204.0-License-blue)
+![Cytoplasm-Only](https://img.shields.io/badge/Cytoplasm-Only-green)
+![BCI-Read-Only](https://img.shields.io/badge/BCI-Read%20Only-orange)
+![Zero-Genomic-Editing](https://img.shields.io/badge/Safety-Zero%20Genomic%20Editing-red)
+![KALTSIT-System](https://img.shields.io/badge/KALTSIT-Self%20Degradation-purple)
+![Single-Neuron](https://img.shields.io/badge/Resolution-Single%20Neuron-blueviolet)
+![Epilepsy-Monitor](https://img.shields.io/badge/Epilepsy-Monitoring%20System-critical)
 
 </div>
 
 ---
 
-# Official Introduction
-<span style="color:#8A2BE2; font-size: 18px; font-weight: bold;">ELEANOR</span> is an independently innovated, cytoplasm-restricted dual-module neural engineering system, which is oriented to global clinical demands and the long-term evolution of neural technology. This platform takes the lead in realizing the parallel integration of targeted therapy for neurodegenerative diseases and high-resolution ethically compliant brain-computer interface, filling the technical gap between clinical treatment and neural interface engineering.
-
-All operations of the platform are strictly limited to the neuronal cytoplasm, with absolute zero nuclear entry, zero genomic editing, and zero signal writing. It fully complies with international neuroethical norms, biosafety standards and clinical translation requirements, representing a new generation of safe, controllable and widely applicable neural engineering solutions.
-
-The platform is divided into two completely independent, non-interfering parallel technical routes, aiming to solve two major worldwide problems: the lack of effective targeted treatment for Alzheimer's disease, and the lack of long-term stable, high-resolution and ethically compliant brain-computer interface technology.
+## 🧠 Project Overview
+ELEANOR is an original, cytoplasm-restricted dual-route neural engineering platform designed to address two global unmet needs: **targeted therapy for Alzheimer’s disease (AD)** and **high-resolution, ethically compliant brain-computer interface (BCI)**.
+The platform implements a minimally invasive nasal soft electrode implantation architecture, constructing a stable extracellular–intracellular conductive circuit. All operations are confined to the cytoplasm with zero nuclear off-target effects and zero genomic editing. The BCI module strictly supports signal reading only, fully complying with international neuroethical standards.
 
 ---
 
-# Core Technical Advantages
-## 1. Absolute Safety System
-<span style="color:red; font-weight: bold;">Cytoplasm-Only Operation</span>: All molecular events are confined to the neuronal cytoplasm, no nuclear translocation, no genomic DNA cleavage, no gene editing activity, eliminating all risks of genetic damage.
-<span style="color:red; font-weight: bold;">Zero Nuclear Entry</span>: Strictly prohibited from entering the cell nucleus, fundamentally cutting off the possibility of genomic integration and off-target effects.
-<span style="color:red; font-weight: bold;">Read-Only BCI</span>: Hardware write-lock design, only supports neural signal reading, no signal writing, no electrical stimulation, no neural control, fully compliant with global neuroethical guidelines.
-<span style="color:red; font-weight: bold;">Self-Cleaning Mechanism</span>: Equipped with KALTSIT complementary anti-degradation technology, automatically clearing 100% of misdelivered exogenous materials, no residual risk.
-<span style="color:red; font-weight: bold;">Biodegradable Components</span>: All materials are degradable in vivo, no permanent residues, no chronic toxicity or immune accumulation.
+## 🎯 Core Positioning
+### 1. Clinical Priority · Disease Treatment First
+AD-targeted therapy based on **SpyTag/SpyCatcher covalent self-locking** technology, π-conductive DNA, and weak current–induced autophagy. Uses fully validated mature technologies with a clear clinical translation path.
 
-## 2. Leading Technical Architecture
-- Unified underlying core technology system, shared delivery platform, modification system and safety mechanism, maximizing the efficiency of research and development and clinical translation.
-- 100% commercially available and clinically validated components, no de novo protein engineering, greatly reducing the difficulty and cycle of clinical transformation.
-- Multi-layer composite coating technology, solving the core problems of electrostatic repulsion, ion interference and low binding efficiency in physiological environment.
-- Dual chemical modification of DNA, ensuring long-term stability in vivo, with a half-life of more than 96 hours.
-- Flexible graphene soft electrode interface, ultra-high biocompatibility, reducing glial scar formation by more than 90%.
-
-## 3. Revolutionary Safety Technology: KALTSIT
-<span style="color:#9932cc; font-weight: bold; font-size: 18px;">KALTSIT (Kal'tsit And Loyal Targeted Self-Inactivation Technology)</span> is the core safety module of ELEANOR Platform v2.0.0, a completely self-executing intracellular DNA delivery safety system.
-
-Core Mechanism: Only correctly paired DNA wire and DNA linker can form a nuclease-resistant double helix and survive stably for 15-20 years in neurons; all unpaired or mispaired DNA molecules will be automatically degraded by intracellular nucleases within 96 hours, realizing zero false signals and zero off-target risks.
-
-This technology is the world's first complementary mutual-protection nucleic acid safety mechanism, which fundamentally solves the common problem of misdelivery in intracellular DNA delivery systems.
+### 2. Technological Inevitability · Scientific Trend First
+Single-cell resolution read-only BCI powered by engineered TdT, cytoplasmic DNA barcoding, NF-L (Neurofilament light chain) scaffold, and flexible graphene soft electrodes. Represents the next generation of non-invasive neural interface technology.
 
 ---
 
-# Dual Core Functional Routes
-## Route 1: Clinical Priority - Alzheimer's Disease Targeted Therapy
-This route is a mature, clinically oriented treatment system, using SpyTag/SpyCatcher covalent self-locking bridging technology, polythiophene-pyrene dual-modified conductive DNA and weak electrically induced autophagy, to achieve targeted clearance of amyloid deposits in the brain.
-
-Technical Characteristics:
-- Non-invasive administration via intravenous injection or intranasal inhalation, no craniotomy, no trauma.
-- Specific targeting of Aβ/p-tau pathological aggregates, no damage to normal neurons.
-- Auto-termination mechanism, automatically stopping treatment after lesion clearance, avoiding excessive autophagy.
-- Mature technical system, supported by a large number of peer-reviewed literatures, expected to complete preclinical verification within 24 months.
-
-## Route 2: Technological Inevitability - Full-Joint Single-Cell Read-Only BCI
-This route is a next-generation non-invasive, high spatial resolution brain-computer interface system, based on NF-L cytoplasmic scaffold, synthetic DNA barcoding, KALTSIT safety technology and flexible graphene electrode, to realize single-cell resolution neural signal reading.
-
-Technical Characteristics:
-- Four-dimensional combinatorial encoding scheme, with a theoretical encoding capacity of up to 4096 independent control units.
-- Pure base-block sequence design, eliminating non-specific pairing and frameshift pairing, with ultra-high specificity.
-- CPP automatic separation mechanism, realizing clean separation of delivery carrier and functional DNA within 41 seconds.
-- Single-cell resolution, full-body joint movement decoding, no inter-joint signal crosstalk.
-- Hardware write-lock, strictly read-only, no ethical risks.
+## 🔬 Core Shared Technologies
+- **Stabilized DNA**: Phosphorothioate + 2'-O-methyl dual modification, half-life >96 hours
+- **CPP Delivery**: TAT/R8/PHF1-mediated non-invasive blood-brain barrier crossing
+- **NES-Cas9 Scaffold**: Strict cytoplasmic anchoring, no genomic cleavage
+- **Conductive DNA**: Polythiophene-pyrene dual-modified for high electron transport
+- **Multi-Layer Coating**: PLL + pH-sensitive lipid + targeting peptide for stability & conductivity
+- **SpyTag/SpyCatcher**: Irreversible covalent bridging for specific circuit coupling
+- **KALTSIT Kal'tsit Sequence Self-Degradation System**: Intelligent safety switch for long-term in vivo biosafety
 
 ---
 
-# Core Signature Technologies
-1. Dual-Modified Stabilized DNA System: Phosphorothioate + 2'-O-methyl dual modification, with strong anti-enzymatic hydrolysis ability.
-2. Neuron-Specific CPP Delivery: Efficiently crossing the blood-brain barrier, supporting non-invasive administration.
-3. Polythiophene-Pyrene Conductive DNA: Significantly improving the conductivity of DNA, realizing stable electrical signal transmission.
-4. Multi-Layer Composite Coating: Enhancing binding efficiency, blocking ion interference, improving stability and conductivity.
-5. SpyTag/SpyCatcher Covalent Self-Locking: Irreversible covalent coupling, stable in complex brain microenvironment.
-6. KALTSIT Complementary Anti-Degradation: Self-executing safety mechanism, automatically clearing misdelivered materials.
-7. Pure Base-Block Orthogonal Sequence: Ultra-high specificity, preventing non-specific pairing and frameshift pairing.
+## 🧪 Route Details
+### Route 1 | Alzheimer’s Disease Targeted Therapy
+- Mechanism: SpyTag/SpyCatcher couples conductive DNA to amyloid deposits; π-π stacking forms local conductive pathways; weak transcranial current induces autophagy to clear Aβ/p-tau aggregates.
+- Delivery: Intravenous / intranasal administration
+- Termination: Auto-stops upon lesion clearance
+- Advantage: Targeted, non-invasive, no damage to normal neurons
+
+### Route 2 | Single-Cell Read-Only BCI
+- Mechanism: AAV9-NF-L (Neurofilament light chain) anchors TdT to synthesize poly(AC) chains; NES-Cas9 edits unique cytoplasmic barcodes; flexible electrodes read membrane potential via sequence-specific hybridization.
+- Ethics: Hardware write-lock, read-only firmware, no stimulation or control
 
 ---
 
-# Clinical Translation Value
-## Short-Term Value (0-3 Years)
-- Alzheimer's disease treatment route enters preclinical research, completing mouse and rat model verification.
-- BCI route completes in vitro and in vivo safety verification, realizing stable single-cell signal reading.
-- All core components meet GMP production standards, laying the foundation for clinical trials.
+## ⚠️ Full Risk Mitigation
+- Excessive autophagy → Local circuit + weak current + auto-termination
+- Poor binding → PLL coating + SpyTag/SpyCatcher covalent coupling
+- Ion interference → 2nm pH-sensitive lipid layer
+- DNA degradation → Dual chemical modification
+- Immune rejection → Flexible graphene + PEG passivation
+- Ethical misuse → Physical write-lock + open-source verification
+- Uncontrolled long-term expression → KALTSIT self-degradation system
 
-## Long-Term Value (3-10 Years)
-- Realizing clinical application of targeted therapy for Alzheimer's disease, benefiting global patients.
-- Building a new generation of ethically compliant brain-computer interface system, applied in neurological rehabilitation, prosthetic control and other fields.
-- Promoting the development of neural engineering, intracellular delivery and other disciplines, leading the global neural technology trend.
+---
+
+## 📊 Feasibility
+- **Material**: Commercially synthesizable/expressible components
+- **Biological**: All mechanisms supported by peer-reviewed literature
+- **Engineering**: Standard neuroengineering & biomedicine techniques
+- **Safety**: Clinically safe parameters, no irreversible manipulation
+- **Translational**: AD route ready for preclinical study in 24 months
+
+---
+
+## 🎨 Naming Origin
+The name **ELEANOR** is derived directly from the English name of **薄绿 (Eleanor)** from the game *Arknights*.
+The core safety system **KALTSIT** is named after **Kal'tsit** from *Arknights*, representing the self-degradation and symbiotic protection logic.
+
+---
+
+# About the Author
+I am Chenzhuo, a sophomore from Hengshui No.2 High School and a National Biology Olympiad (NBO) student.
+I have a broad interest in ACG culture, including Arknights, Blue Archive, band-themed anime, Mashin Sentai Kiramager, Touhou Project, and Senren Banka.
+
+The entire ELEANOR Platform project was initiated purely out of personal spare time exploration; I started the design and writing simply because I was bored, and gradually built it into a complete and self-consistent technical system.
+
+All core ideas, scientific logic, molecular mechanisms, architectural design, and innovative concepts of this project are **completely independently conceived by myself**.
+AI tools are only used for auxiliary typesetting, English expression polishing, and translation support, as my English level is limited and cannot support direct professional academic writing.
+I hereby declare that AI has not participated in any core innovation, theoretical construction, or design decision-making throughout the project.
+
+Special thanks to Kingsoft and Sci-Hub for providing strong support in literature access and translation services.
+
+I will try my best to update new ideas at least once a month.
+
+---
+
+# Future Research & Development Plan
+Based on the existing ELEANOR Platform and KALTSIT self-degradation safety system, I will further develop an **in vivo epilepsy monitoring and early warning system with single-neuron resolution**.
+
+This system will achieve:
+- High-precision electrical signal monitoring at the single-neuron level
+- Early prediction of epileptic seizures
+- Long-term recording and queryable seizure history
+- Complete biosafety: no nuclear entry, no genomic editing, no stimulation writing
+
+---
+
+## 🤝 Collaboration & Contact
+- **Author**: Chenzhuo
+- **GitHub**: https://github.com/GumingDilian-hub/Engineered-Localized-Embedded-Axonal-Neuromodulatory-Orthogonal-Reparative-Platform-ELEANOR
+- **Email**: 2167964516@qq.com
+- **WeChat**: 15530600783
+- **License**: CC BY 4.0
+
+---
+
+*Permanent Archive · Version Traceable · Original Innovation*
 
 ---
 
