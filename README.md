@@ -4,10 +4,11 @@ ELEANOR-Engineered-Level-Embedded-Axonal-Neuromodulatory-Orthogonal-Reparative-A
 <h1 style="color:#7B68EE;font-weight:bold; font-size: 42px; letter-spacing: 2px;">ELEANOR Platform</h1>
 <h3 style="color:#4682B4; font-size: 22px; font-weight: 500;">Engineered Localized Embedded Axonal Neuromodulatory Orthogonal Reparative Dual-Module Platform</h3>
 <br>
-[![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
- [![Cytoplasm-Only](https://img.shields.io/badge/Operation-Cytoplasm%20Only-green.svg)](/)
- [![Read-Only BCI](https://img.shields.io/badge/BCI-Read%20Only-orange.svg)](/)
- [![Safe](https://img.shields.io/badge/Safety-Zero%20Genomic%20Editing-red.svg)](/)
+ [![CC BY 4.0 License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Cytoplasm-Only](https://img.shields.io/badge/Operation-Cytoplasm%20Only-green.svg)](/)
+[![Read-Only BCI](https://img.shields.io/badge/BCI-Read%20Only-orange.svg)](/)
+[![Safe](https://img.shields.io/badge/Safety-Zero%20Genomic%20Editing-red.svg)](/)
+
 </div>
 
 ---
